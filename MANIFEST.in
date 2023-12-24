@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_octo_sensirion_plugin/templates *
+recursive-include octoprint_octo_sensirion_plugin/translations *
+recursive-include octoprint_octo_sensirion_plugin/static *
