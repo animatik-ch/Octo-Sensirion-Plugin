@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SEN55 Sensor Control</title>
+    <link rel="stylesheet" href="/static/css/Octo_Sensirion_Style.css">
+</head>
+<body>
+    <h1>SEN55 Sensor Control</h1>
+
+    <div id="sensor-indicator" class="indicator">Sensor: Inactive</div>
+
+    <button id="start-button" class="button">Start Measurement</button>
+    <button id="stop-button" class="button">Stop Measurement</button>
+
+    <div id="sensor-data">
+        <h2>Sensor Data</h2>
+        <div id="particulate-matter-graph" class="graph"></div>
+        <div id="voc-graph" class="graph"></div>
+        <!-- Add other graph containers for data -->
+    </div>
+
+    <script src="/static/js/Octo_Sensirion_Script.js"></script>
+</body>
+</html>

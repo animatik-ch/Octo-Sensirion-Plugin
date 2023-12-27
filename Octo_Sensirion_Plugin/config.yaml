@@ -1,0 +1,11 @@
+plugin_identifier: octo_sensirion_plugin
+plugin_package: octoprint_octo_sensirion_plugin
+plugin_name: Octo_Sensirion_Plugin
+full_name: Franco
+email: mail@animatik.ch
+plugin_version: 0.1.0
+plugin_description: OctoPrint plugin for monitoring Sensirion Sen-55 via Raspberry Pi.
+plugin_license: AGPLv3
+plugin_homepage: https://github.com/animatik-ch/octo-sensirion-plugin
+plugin_source: https://github.com/animatik-ch/octo-sensirion-plugin
+plugin_installurl: https://github.com/animatik-ch/octo-sensirion-plugin/archive/master.zip
