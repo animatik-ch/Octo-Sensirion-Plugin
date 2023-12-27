@@ -8,4 +8,4 @@ plugin_description: OctoPrint plugin for monitoring Sensirion Sen-55 via Raspber
 plugin_license: AGPLv3
 plugin_homepage: https://github.com/animatik-ch/octo-sensirion-plugin
 plugin_source: https://github.com/animatik-ch/octo-sensirion-plugin
-plugin_installurl: https://github.com/animatik-ch/octo-sensirion-plugin/archive/master.zip
+plugin_installurl: https://github.com/animatik-ch/octo-sensirion-plugin/archive/main.zip
